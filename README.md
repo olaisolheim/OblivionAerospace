@@ -7,6 +7,8 @@ A small parts package of heat shields for Kerbal Space Program and the fabulous 
   * Comes in three sizes: 1.25m, 2.5m, and 3.75m.
   * Works great with Ferram Aerospace Research by ferram4 in that sphere-cone shaped heat shields offer greater control (by lift) over blunt ones.
 
+Thanks to ialdabaoth (who is awesome) and r4m0n for the excellent Deadly Reentry mod and to NathanKell for extending upon and maintaining it.
+
 Licence is GNU GPL v3 (see `LICENCE` for details).
 
 # Installation
