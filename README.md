@@ -8,7 +8,7 @@ A small parts package of heat shields for Kerbal Space Program and the fabulous 
   * Works great with Ferram Aerospace Research by ferram4 in that sphere-cone shaped heat shields offer greater control (by lift) over blunt ones.
 
 My appreciation to the community:
-* Thanks to ialdabaoth (who is awesome) and r4m0n for creating the excellent Deadly Reentry mod and to NathanKell for extending upon and maintaining it.
+* Thanks to ialdabaoth (who is awesome) and r4m0n for creating the excellent Deadly Reentry mod and to NathanKell for extending upon and maintaining it. Heat shields would be boring without it!
 * Thanks to ferram4 for creating Ferram Aerospace Research which really makes the KSP experience for me!
 * Finally, thanks to Squad for making a great game!
 
