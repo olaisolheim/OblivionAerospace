@@ -1,4 +1,4 @@
-# Oblivion Aerospace Heat Shields
+# Oblivion Aerospace
 
 A small parts package of heat shields for Kerbal Space Program and the fabulous Deadly Reentry Continued mod created by NathanKell (who is awesome) based on the works by ialdabaoth and r4m0n.
 
