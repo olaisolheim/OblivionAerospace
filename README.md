@@ -23,6 +23,6 @@ Install by merging the `GameData` folder in the zip with the `GameData` folder i
 
 # Changelog
 
-## v0.1.0 Initial release.
+**v0.1.0** Initial release.
 * Added the *Conical Heat Shield*.
 
