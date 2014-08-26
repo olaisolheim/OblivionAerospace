@@ -33,6 +33,9 @@ Install by merging the `GameData` folder in the zip with the `GameData` folder i
 
 # Changelog
 
+**v0.1.1**
+* Added the Duna Exploration Rover example craft using the Conical Heat Shield for reentry. (You'll need the Procedural Fairings mod by e-dog.)
+
 **v0.1.0** Initial release.
 * Added the *Conical Heat Shield*.
 
