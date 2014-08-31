@@ -4,7 +4,7 @@ description = Testing new uses for the Conical Heat Shield in the Oblivion Aeros
 type = VAB
 PART
 {
-	part = probeCoreOcto2_4294042686
+	part = probeCoreOcto2_4287430822
 	partName = Part
 	pos = -2.123415E-06,10.30253,8.419156E-07
 	rot = 0,0,0,1
@@ -16,8 +16,8 @@ PART
 	sqor = -1
 	attm = 0
 	modCost = 0
-	link = batteryBankMini_4294042650
-	attN = top,batteryBankMini_4294042650
+	link = batteryBankMini_4287430786
+	attN = top,batteryBankMini_4287430786
 	EVENTS
 	{
 	}
@@ -195,7 +195,7 @@ PART
 }
 PART
 {
-	part = batteryBankMini_4294042650
+	part = batteryBankMini_4287430786
 	partName = Part
 	pos = -2.123415E-06,10.46359,8.419156E-07
 	rot = 0,0,0,1
@@ -207,13 +207,13 @@ PART
 	sqor = -1
 	attm = 0
 	modCost = 0
-	link = strutCube_4294042622
-	link = strutCube_4294042358
-	link = longAntenna_4294042094
-	link = sensorThermometer_4294041972
-	link = stackDecouplerMini_4294041924
-	attN = top,stackDecouplerMini_4294041924
-	attN = bottom,probeCoreOcto2_4294042686
+	link = strutCube_4287430758
+	link = strutCube_4287430494
+	link = longAntenna_4287430230
+	link = sensorThermometer_4287430108
+	link = stackDecouplerMini_4287430060
+	attN = top,stackDecouplerMini_4287430060
+	attN = bottom,probeCoreOcto2_4287430822
 	EVENTS
 	{
 	}
@@ -244,7 +244,7 @@ PART
 }
 PART
 {
-	part = strutCube_4294042622
+	part = strutCube_4287430758
 	partName = Part
 	pos = -2.161858E-06,10.55521,-0.4397227
 	rot = -5.210907E-08,0.7071066,-0.707107,-9.708184E-09
@@ -256,13 +256,13 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	link = roverWheel2_4294042602
-	link = roverWheel2_4294042480
-	link = sensorBarometer_4294041996
-	link = sensorAccelerometer_4294041948
-	link = solarPanels5_4294041892
-	sym = strutCube_4294042358
-	srfN = srfAttach,batteryBankMini_4294042650
+	link = roverWheel2_4287430738
+	link = roverWheel2_4287430616
+	link = sensorBarometer_4287430132
+	link = sensorAccelerometer_4287430084
+	link = solarPanels5_4287430028
+	sym = strutCube_4287430494
+	srfN = srfAttach,batteryBankMini_4287430786
 	EVENTS
 	{
 	}
@@ -283,7 +283,7 @@ PART
 }
 PART
 {
-	part = roverWheel2_4294042602
+	part = roverWheel2_4287430738
 	partName = Part
 	pos = -0.3302453,10.13682,-0.4397232
 	rot = 0,0,0,-1
@@ -295,9 +295,9 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	sym = roverWheel2_4294042480
-	sym = roverWheel2_4294042338
-	srfN = srfAttach,strutCube_4294042622
+	sym = roverWheel2_4287430616
+	sym = roverWheel2_4287430474
+	srfN = srfAttach,strutCube_4287430758
 	EVENTS
 	{
 	}
@@ -451,9 +451,9 @@ PART
 }
 PART
 {
-	part = roverWheel2_4294042480
+	part = roverWheel2_4287430616
 	partName = Part
-	pos = 0.3302412,10.13682,-0.439723
+	pos = 0.3302417,10.13682,-0.439723
 	rot = -9.633812E-16,-1,1.332268E-15,4.37114E-08
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -463,9 +463,9 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	sym = roverWheel2_4294042602
-	sym = roverWheel2_4294042216
-	srfN = srfAttach,strutCube_4294042622
+	sym = roverWheel2_4287430738
+	sym = roverWheel2_4287430352
+	srfN = srfAttach,strutCube_4287430758
 	EVENTS
 	{
 	}
@@ -619,7 +619,7 @@ PART
 }
 PART
 {
-	part = strutCube_4294042358
+	part = strutCube_4287430494
 	partName = Part
 	pos = -2.046532E-06,10.55521,0.4397247
 	rot = -0.707107,-4.06168E-08,8.30177E-08,-0.7071066
@@ -631,12 +631,12 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	link = roverWheel2_4294042338
-	link = roverWheel2_4294042216
-	link = spotLight1_4294042030
-	link = solarPanels5_4294041864
-	sym = strutCube_4294042622
-	srfN = srfAttach,batteryBankMini_4294042650
+	link = roverWheel2_4287430474
+	link = roverWheel2_4287430352
+	link = spotLight1_4287430166
+	link = solarPanels5_4287430000
+	sym = strutCube_4287430758
+	srfN = srfAttach,batteryBankMini_4287430786
 	EVENTS
 	{
 	}
@@ -657,7 +657,7 @@ PART
 }
 PART
 {
-	part = roverWheel2_4294042338
+	part = roverWheel2_4287430474
 	partName = Part
 	pos = 0.3302408,10.13682,0.4397247
 	rot = 2.847489E-15,-1,-1.339348E-15,4.371139E-08
@@ -669,9 +669,9 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	sym = roverWheel2_4294042216
-	sym = roverWheel2_4294042602
-	srfN = srfAttach,strutCube_4294042358
+	sym = roverWheel2_4287430352
+	sym = roverWheel2_4287430738
+	srfN = srfAttach,strutCube_4287430494
 	EVENTS
 	{
 	}
@@ -825,7 +825,7 @@ PART
 }
 PART
 {
-	part = roverWheel2_4294042216
+	part = roverWheel2_4287430352
 	partName = Part
 	pos = -0.3302449,10.13682,0.4397247
 	rot = 2.621105E-15,8.742278E-08,1.926756E-15,1
@@ -837,9 +837,9 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	sym = roverWheel2_4294042338
-	sym = roverWheel2_4294042480
-	srfN = srfAttach,strutCube_4294042358
+	sym = roverWheel2_4287430474
+	sym = roverWheel2_4287430616
+	srfN = srfAttach,strutCube_4287430494
 	EVENTS
 	{
 	}
@@ -993,7 +993,7 @@ PART
 }
 PART
 {
-	part = longAntenna_4294042094
+	part = longAntenna_4287430230
 	partName = Part
 	pos = -0.213453,10.49083,-0.2134502
 	rot = 0,0.9238796,0,-0.3826834
@@ -1005,7 +1005,7 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	srfN = srfAttach,batteryBankMini_4294042650
+	srfN = srfAttach,batteryBankMini_4287430786
 	EVENTS
 	{
 	}
@@ -1105,10 +1105,10 @@ PART
 }
 PART
 {
-	part = spotLight1_4294042030
+	part = spotLight1_4287430166
 	partName = Part
 	pos = -2.046532E-06,10.45867,0.5254561
-	rot = 0.7933534,-7.508769E-15,-1.649667E-15,-0.6087615
+	rot = 0.7933533,-1.265472E-14,-4.467665E-16,-0.6087615
 	attRot = 0,-0.9914448,0.1305262,0
 	mir = 1,1,1
 	istg = 0
@@ -1117,7 +1117,7 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	srfN = srfAttach,strutCube_4294042358
+	srfN = srfAttach,strutCube_4287430494
 	EVENTS
 	{
 	}
@@ -1210,7 +1210,7 @@ PART
 }
 PART
 {
-	part = sensorBarometer_4294041996
+	part = sensorBarometer_4287430132
 	partName = Part
 	pos = -2.171478E-06,10.57603,-0.5497847
 	rot = 1.332268E-15,-4.371139E-08,-2.926961E-16,-1
@@ -1222,7 +1222,7 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	srfN = srfAttach,strutCube_4294042622
+	srfN = srfAttach,strutCube_4287430758
 	EVENTS
 	{
 	}
@@ -1346,7 +1346,7 @@ PART
 }
 PART
 {
-	part = sensorThermometer_4294041972
+	part = sensorThermometer_4287430108
 	partName = Part
 	pos = -2.150063E-06,10.39417,-0.304831
 	rot = 1.30123E-07,-1.919403E-07,-0.7071068,-0.7071068
@@ -1358,7 +1358,7 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	srfN = srfAttach,batteryBankMini_4294042650
+	srfN = srfAttach,batteryBankMini_4287430786
 	EVENTS
 	{
 	}
@@ -1482,7 +1482,7 @@ PART
 }
 PART
 {
-	part = sensorAccelerometer_4294041948
+	part = sensorAccelerometer_4287430084
 	partName = Part
 	pos = -2.171461E-06,10.44828,-0.54957
 	rot = -0.7071068,3.090862E-08,-3.090862E-08,0.7071068
@@ -1494,7 +1494,7 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	srfN = srfAttach,strutCube_4294042622
+	srfN = srfAttach,strutCube_4287430758
 	EVENTS
 	{
 	}
@@ -1618,7 +1618,7 @@ PART
 }
 PART
 {
-	part = stackDecouplerMini_4294041924
+	part = stackDecouplerMini_4287430060
 	partName = Part
 	pos = -2.123415E-06,10.63949,8.419156E-07
 	rot = -1,0,0,0
@@ -1630,9 +1630,9 @@ PART
 	sqor = 1
 	attm = 0
 	modCost = 0
-	link = miniFuelTank_4294041836
-	attN = bottom,miniFuelTank_4294041836
-	attN = top,batteryBankMini_4294042650
+	link = miniFuelTank_4287429972
+	attN = bottom,miniFuelTank_4287429972
+	attN = top,batteryBankMini_4287430786
 	EVENTS
 	{
 	}
@@ -1737,7 +1737,7 @@ PART
 }
 PART
 {
-	part = solarPanels5_4294041892
+	part = solarPanels5_4287430028
 	partName = Part
 	pos = -2.165414E-06,10.66213,-0.4804156
 	rot = -0.5000001,0.5,0.5000001,0.5
@@ -1749,8 +1749,8 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	sym = solarPanels5_4294041864
-	srfN = srfAttach,strutCube_4294042622
+	sym = solarPanels5_4287430000
+	srfN = srfAttach,strutCube_4287430758
 	EVENTS
 	{
 	}
@@ -1841,7 +1841,7 @@ PART
 }
 PART
 {
-	part = solarPanels5_4294041864
+	part = solarPanels5_4287430000
 	partName = Part
 	pos = -2.039417E-06,10.66213,0.4804173
 	rot = 0.5000001,0.5,0.5000001,-0.4999999
@@ -1853,8 +1853,8 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	sym = solarPanels5_4294041892
-	srfN = srfAttach,strutCube_4294042358
+	sym = solarPanels5_4287430028
+	srfN = srfAttach,strutCube_4287430494
 	EVENTS
 	{
 	}
@@ -1945,7 +1945,7 @@ PART
 }
 PART
 {
-	part = miniFuelTank_4294041836
+	part = miniFuelTank_4287429972
 	partName = Part
 	pos = -2.123415E-06,10.88968,8.419156E-07
 	rot = 0,0,0,1
@@ -1957,13 +1957,13 @@ PART
 	sqor = -1
 	attm = 0
 	modCost = 0
-	link = stackDecouplerMini_4294041808
-	link = strutCube_4294041684
-	link = strutCube_4294041664
-	link = fuelLine_4294041444
-	link = fuelLine_4294041364
-	attN = top,stackDecouplerMini_4294041808
-	attN = bottom,stackDecouplerMini_4294041924
+	link = stackDecouplerMini_4287429944
+	link = strutCube_4287429820
+	link = strutCube_4287429800
+	link = fuelLine_4287429624
+	link = fuelLine_4287429544
+	attN = top,stackDecouplerMini_4287429944
+	attN = bottom,stackDecouplerMini_4287430060
 	EVENTS
 	{
 	}
@@ -2004,7 +2004,7 @@ PART
 }
 PART
 {
-	part = stackDecouplerMini_4294041808
+	part = stackDecouplerMini_4287429944
 	partName = Part
 	pos = -2.123415E-06,11.13986,8.419156E-07
 	rot = -1,0,0,0
@@ -2016,9 +2016,9 @@ PART
 	sqor = 2
 	attm = 0
 	modCost = 0
-	link = KzInterstageAdapter2_4294041776
-	attN = bottom,KzInterstageAdapter2_4294041776
-	attN = top,miniFuelTank_4294041836
+	link = KzInterstageAdapter2_4287429912
+	attN = bottom,KzInterstageAdapter2_4287429912
+	attN = top,miniFuelTank_4287429972
 	EVENTS
 	{
 	}
@@ -2123,7 +2123,7 @@ PART
 }
 PART
 {
-	part = KzInterstageAdapter2_4294041776
+	part = KzInterstageAdapter2_4287429912
 	partName = Part
 	pos = -2.123415E-06,11.30077,8.419156E-07
 	rot = -1,0,0,0
@@ -2135,13 +2135,13 @@ PART
 	sqor = 3
 	attm = 0
 	modCost = 7.004426
-	link = parachuteSingle_4294041734
-	link = ObConicalHeatShield250_4294041488
-	link = KzProcFairingSide2_4294041284
-	attN = bottom,parachuteSingle_4294041734
-	attN = top,stackDecouplerMini_4294041808
-	attN = top1,ObConicalHeatShield250_4294041488
-	attN = connect01,KzProcFairingSide2_4294041284
+	link = parachuteSingle_4287429870
+	link = KzProcFairingSide2_4287429464
+	link = ObConicalHeatShield250_4287422508
+	attN = bottom,parachuteSingle_4287429870
+	attN = top,stackDecouplerMini_4287429944
+	attN = top1,ObConicalHeatShield250_4287422508
+	attN = connect01,KzProcFairingSide2_4287429464
 	EVENTS
 	{
 	}
@@ -2380,7 +2380,7 @@ PART
 }
 PART
 {
-	part = parachuteSingle_4294041734
+	part = parachuteSingle_4287429870
 	partName = Part
 	pos = -2.123415E-06,11.31585,8.419156E-07
 	rot = 0,0,0,1
@@ -2392,7 +2392,7 @@ PART
 	sqor = 4
 	attm = 0
 	modCost = 0
-	attN = bottom,KzInterstageAdapter2_4294041776
+	attN = bottom,KzInterstageAdapter2_4287429912
 	EVENTS
 	{
 	}
@@ -2494,7 +2494,7 @@ PART
 }
 PART
 {
-	part = strutCube_4294041684
+	part = strutCube_4287429820
 	partName = Part
 	pos = -0.3926584,10.89025,8.598938E-07
 	rot = -0.6532815,0.270598,-0.6532815,-0.270598
@@ -2506,10 +2506,10 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	link = strutCube_4294041644
-	sym = strutCube_4294041664
-	srfN = srfAttach,miniFuelTank_4294041836
-	attN = top,strutCube_4294041644
+	link = strutCube_4287429780
+	sym = strutCube_4287429800
+	srfN = srfAttach,miniFuelTank_4287429972
+	attN = top,strutCube_4287429780
 	EVENTS
 	{
 	}
@@ -2530,7 +2530,7 @@ PART
 }
 PART
 {
-	part = strutCube_4294041664
+	part = strutCube_4287429800
 	partName = Part
 	pos = 0.3926542,10.89025,7.896108E-07
 	rot = -0.6532815,-0.270598,0.6532815,-0.270598
@@ -2542,10 +2542,10 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	link = strutCube_4294041624
-	sym = strutCube_4294041684
-	srfN = srfAttach,miniFuelTank_4294041836
-	attN = top,strutCube_4294041624
+	link = strutCube_4287429760
+	sym = strutCube_4287429820
+	srfN = srfAttach,miniFuelTank_4287429972
+	attN = top,strutCube_4287429760
 	EVENTS
 	{
 	}
@@ -2566,9 +2566,9 @@ PART
 }
 PART
 {
-	part = strutCube_4294041644
+	part = strutCube_4287429780
 	partName = Part
-	pos = -0.5747172,10.70819,8.978751E-07
+	pos = -0.5747172,10.70819,9.250037E-07
 	rot = 0.2705981,0.6532815,-0.2705981,0.6532815
 	attRot = 0.2705981,0.6532815,-0.2705981,0.6532815
 	mir = 1,1,1
@@ -2578,10 +2578,10 @@ PART
 	sqor = -1
 	attm = 0
 	modCost = 0
-	link = strutCube_4294041604
-	sym = strutCube_4294041624
-	attN = top,strutCube_4294041684
-	attN = bottom,strutCube_4294041604
+	link = strutCube_4287429740
+	sym = strutCube_4287429760
+	attN = top,strutCube_4287429820
+	attN = bottom,strutCube_4287429740
 	EVENTS
 	{
 	}
@@ -2602,9 +2602,9 @@ PART
 }
 PART
 {
-	part = strutCube_4294041624
+	part = strutCube_4287429760
 	partName = Part
-	pos = 0.5747128,10.70819,8.27591E-07
+	pos = 0.5747128,10.70819,8.547199E-07
 	rot = -0.2705981,0.6532815,-0.2705981,-0.6532815
 	attRot = 0.2705981,0.6532815,-0.2705981,0.6532815
 	mir = 1,1,1
@@ -2614,10 +2614,10 @@ PART
 	sqor = -1
 	attm = 0
 	modCost = 0
-	link = strutCube_4294041584
-	sym = strutCube_4294041644
-	attN = top,strutCube_4294041664
-	attN = bottom,strutCube_4294041584
+	link = strutCube_4287429720
+	sym = strutCube_4287429780
+	attN = top,strutCube_4287429800
+	attN = bottom,strutCube_4287429720
 	EVENTS
 	{
 	}
@@ -2638,9 +2638,9 @@ PART
 }
 PART
 {
-	part = strutCube_4294041604
+	part = strutCube_4287429740
 	partName = Part
-	pos = -0.7567763,10.52613,9.412812E-07
+	pos = -0.7567763,10.52613,9.955388E-07
 	rot = 0.2705981,0.6532815,-0.2705981,0.6532815
 	attRot = 0.2705981,0.6532815,-0.2705981,0.6532815
 	mir = 1,1,1
@@ -2650,9 +2650,9 @@ PART
 	sqor = -1
 	attm = 0
 	modCost = 0
-	link = radialEngineMini_4294041564
-	sym = strutCube_4294041584
-	attN = top,strutCube_4294041644
+	link = radialEngineMini_4287429700
+	sym = strutCube_4287429720
+	attN = top,strutCube_4287429780
 	EVENTS
 	{
 	}
@@ -2673,9 +2673,9 @@ PART
 }
 PART
 {
-	part = strutCube_4294041584
+	part = strutCube_4287429720
 	partName = Part
-	pos = 0.7567719,10.52613,8.709972E-07
+	pos = 0.7567719,10.52613,9.252547E-07
 	rot = -0.2705981,0.6532815,-0.2705981,-0.6532815
 	attRot = 0.2705981,0.6532815,-0.2705981,0.6532815
 	mir = 1,1,1
@@ -2685,9 +2685,9 @@ PART
 	sqor = -1
 	attm = 0
 	modCost = 0
-	link = radialEngineMini_4294041526
-	sym = strutCube_4294041604
-	attN = top,strutCube_4294041624
+	link = radialEngineMini_4287429662
+	sym = strutCube_4287429740
+	attN = top,strutCube_4287429760
 	EVENTS
 	{
 	}
@@ -2708,10 +2708,10 @@ PART
 }
 PART
 {
-	part = radialEngineMini_4294041564
+	part = radialEngineMini_4287429700
 	partName = Part
-	pos = -0.7850388,10.39877,9.547011E-07
-	rot = 8.840633E-08,-0.7071068,-8.840633E-08,-0.7071068
+	pos = -0.7850388,10.39877,1.002729E-06
+	rot = 2.018818E-07,-0.7071068,-2.018818E-07,-0.7071068
 	attRot = -0.3826835,0,0,0.9238796
 	mir = 1,1,1
 	istg = 2
@@ -2720,8 +2720,8 @@ PART
 	sqor = 2
 	attm = 1
 	modCost = 0
-	sym = radialEngineMini_4294041526
-	srfN = srfAttach,strutCube_4294041604
+	sym = radialEngineMini_4287429662
+	srfN = srfAttach,strutCube_4287429740
 	EVENTS
 	{
 	}
@@ -2823,10 +2823,10 @@ PART
 }
 PART
 {
-	part = radialEngineMini_4294041526
+	part = radialEngineMini_4287429662
 	partName = Part
-	pos = 0.7850356,10.39877,8.480555E-07
-	rot = -1.078756E-07,-0.7071068,-1.078756E-07,0.7071068
+	pos = 0.7850356,10.39877,8.960835E-07
+	rot = -2.213511E-07,-0.7071068,-2.213511E-07,0.7071068
 	attRot = -0.3826835,0,0,0.9238796
 	mir = 1,1,1
 	istg = 2
@@ -2835,8 +2835,8 @@ PART
 	sqor = 2
 	attm = 1
 	modCost = 0
-	sym = radialEngineMini_4294041564
-	srfN = srfAttach,strutCube_4294041584
+	sym = radialEngineMini_4287429700
+	srfN = srfAttach,strutCube_4287429720
 	EVENTS
 	{
 	}
@@ -2938,155 +2938,7 @@ PART
 }
 PART
 {
-	part = ObConicalHeatShield250_4294041488
-	partName = Part
-	pos = -2.123415E-06,10.07177,8.419156E-07
-	rot = 0,0,0,1
-	attRot = 0,0,0,1
-	mir = 1,1,1
-	istg = 3
-	dstg = 6
-	sidx = 1
-	sqor = 3
-	attm = 0
-	modCost = 0
-	attN = top03,KzInterstageAdapter2_4294041776
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	MODULE
-	{
-		name = ModuleHeatShield
-		isEnabled = True
-		deployAnimationController = 0
-		direction = (0, -1, 0)
-		reflective = 0.05
-		ablative = AblativeShielding
-		area = 0
-		thickness = 0
-		adjustCollider = 0
-		crashTolerance = 8
-		damage = 0
-		dead = False
-		loss
-		{
-			key = 650 0 0 0
-			key = 1000 105 0 0
-			key = 3000 130 0 0
-		}
-		dissipation
-		{
-			key = 300 0 0 0
-			key = 500 140 0 0
-		}
-		EVENTS
-		{
-			RepairDamage
-			{
-				active = True
-				guiActive = False
-				guiIcon = No Damage
-				guiName = No Damage
-				category = No Damage
-				guiActiveUnfocused = True
-				unfocusedRange = 4
-				externalToEVAOnly = True
-			}
-		}
-		ACTIONS
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleDecouple
-		isEnabled = True
-		isDecoupled = False
-		EVENTS
-		{
-			Decouple
-			{
-				active = True
-				guiActive = True
-				guiIcon = Decouple
-				guiName = Decouple
-				category = Decouple
-				guiActiveUnfocused = False
-				unfocusedRange = 2
-				externalToEVAOnly = True
-			}
-		}
-		ACTIONS
-		{
-			DecoupleAction
-			{
-				actionGroup = None
-			}
-		}
-	}
-	MODULE
-	{
-		name = ModuleStagingToggle
-		isEnabled = True
-		stagingEnabled = True
-		stagingEnabled_UIFlight
-		{
-			controlEnabled = True
-		}
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleTweakableDecouple
-		isEnabled = True
-		ejectionForce = 40
-		ejectionForce_UIFlight
-		{
-			controlEnabled = True
-			minValue = -3.402823E+38
-			maxValue = 3.402823E+38
-			stepIncrement = 1
-		}
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-	}
-	MODULE
-	{
-		name = FARBasicDragModel
-		isEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-	}
-	RESOURCE
-	{
-		name = AblativeShielding
-		amount = 850
-		maxAmount = 850
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		flowMode = Both
-	}
-}
-PART
-{
-	part = fuelLine_4294041444
+	part = fuelLine_4287429624
 	partName = FuelLine
 	pos = -0.2632338,10.89354,0.1519777
 	rot = 0,-0.258819,0,-0.9659259
@@ -3098,9 +2950,9 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	cData = tgt: strutCube_24; pos: -0.4623853,-0.454318,-0.3189728; dir: -0.6400148,-0.6288487,-0.4415091; rot: 0.3535534,0.6123725,0.6123725,-0.3535534
-	sym = fuelLine_4294041364
-	srfN = srfAttach,miniFuelTank_4294041836
+	cData = tgt: strutCube_24; pos: -0.4623847,-0.454318,-0.3189724; dir: -0.6400148,-0.6288487,-0.4415091; rot: 0.3535534,0.6123725,0.6123725,-0.3535534
+	sym = fuelLine_4287429544
+	srfN = srfAttach,miniFuelTank_4287429972
 	EVENTS
 	{
 	}
@@ -3110,7 +2962,7 @@ PART
 }
 PART
 {
-	part = fuelLine_4294041364
+	part = fuelLine_4287429544
 	partName = FuelLine
 	pos = 0.2632296,10.89354,-0.151976
 	rot = 0,-0.9659259,0,0.258819
@@ -3122,9 +2974,9 @@ PART
 	sqor = -1
 	attm = 1
 	modCost = 0
-	cData = tgt: strutCube_28; pos: -0.4623865,-0.454319,-0.3189737; dir: -0.6400148,-0.6288487,-0.4415091; rot: 0.3535534,0.6123725,0.6123725,-0.3535534
-	sym = fuelLine_4294041444
-	srfN = srfAttach,miniFuelTank_4294041836
+	cData = tgt: strutCube_28; pos: -0.4623872,-0.45432,-0.3189742; dir: -0.6400148,-0.6288487,-0.4415091; rot: 0.3535534,0.6123725,0.6123725,-0.3535534
+	sym = fuelLine_4287429624
+	srfN = srfAttach,miniFuelTank_4287429972
 	EVENTS
 	{
 	}
@@ -3134,7 +2986,7 @@ PART
 }
 PART
 {
-	part = KzProcFairingSide2_4294041284
+	part = KzProcFairingSide2_4287429464
 	partName = Part
 	pos = 0.3124979,10.75827,8.419156E-07
 	rot = 0,0,0,1
@@ -3146,7 +2998,7 @@ PART
 	sqor = 0
 	attm = 0
 	modCost = 234.2941
-	attN = connect,KzInterstageAdapter2_4294041776
+	attN = connect,KzInterstageAdapter2_4287429912
 	EVENTS
 	{
 	}
@@ -3255,5 +3107,243 @@ PART
 		ACTIONS
 		{
 		}
+	}
+}
+PART
+{
+	part = ObConicalHeatShield250_4287422508
+	partName = Part
+	pos = -2.123415E-06,9.990769,8.419156E-07
+	rot = 0,0,0,1
+	attRot = 0,0,0,1
+	mir = 1,1,1
+	istg = 3
+	dstg = 6
+	sidx = 1
+	sqor = 3
+	attm = 0
+	modCost = 0
+	attN = top03,KzInterstageAdapter2_4287429912
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	MODULE
+	{
+		name = ModuleHeatShield
+		isEnabled = True
+		deployAnimationController = 0
+		direction = (0, -1, 0)
+		reflective = 0.05
+		ablative = AblativeShielding
+		area = 0
+		thickness = 0
+		adjustCollider = 0
+		crashTolerance = 8
+		damage = 0
+		dead = False
+		loss
+		{
+			key = 650 0 0 0
+			key = 1000 105 0 0
+			key = 3000 130 0 0
+		}
+		dissipation
+		{
+			key = 300 0 0 0
+			key = 500 140 0 0
+		}
+		EVENTS
+		{
+			RepairDamage
+			{
+				active = True
+				guiActive = False
+				guiIcon = No Damage
+				guiName = No Damage
+				category = No Damage
+				guiActiveUnfocused = True
+				unfocusedRange = 4
+				externalToEVAOnly = True
+			}
+		}
+		ACTIONS
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleDecouple
+		isEnabled = True
+		isDecoupled = False
+		EVENTS
+		{
+			Decouple
+			{
+				active = True
+				guiActive = True
+				guiIcon = Decouple
+				guiName = Decouple
+				category = Decouple
+				guiActiveUnfocused = False
+				unfocusedRange = 2
+				externalToEVAOnly = True
+			}
+		}
+		ACTIONS
+		{
+			DecoupleAction
+			{
+				actionGroup = None
+			}
+		}
+	}
+	MODULE
+	{
+		name = ModuleJettison
+		isEnabled = True
+		EVENTS
+		{
+			Jettison
+			{
+				active = False
+				guiActive = True
+				guiIcon = Jettison
+				guiName = Jettison
+				category = Jettison
+				guiActiveUnfocused = False
+				unfocusedRange = 2
+				externalToEVAOnly = True
+			}
+		}
+		ACTIONS
+		{
+			JettisonAction
+			{
+				actionGroup = None
+			}
+		}
+	}
+	MODULE
+	{
+		name = FlagDecal
+		isEnabled = True
+		flagDisplayed = True
+		EVENTS
+		{
+			ToggleFlag
+			{
+				active = True
+				guiActive = False
+				guiActiveEditor = True
+				guiIcon = ToggleFlag
+				guiName = ToggleFlag
+				category = ToggleFlag
+				guiActiveUnfocused = False
+				unfocusedRange = 2
+				externalToEVAOnly = True
+			}
+		}
+		ACTIONS
+		{
+		}
+	}
+	MODULE
+	{
+		name = FlagDecal
+		isEnabled = True
+		flagDisplayed = True
+		EVENTS
+		{
+			ToggleFlag
+			{
+				active = True
+				guiActive = False
+				guiActiveEditor = True
+				guiIcon = ToggleFlag
+				guiName = ToggleFlag
+				category = ToggleFlag
+				guiActiveUnfocused = False
+				unfocusedRange = 2
+				externalToEVAOnly = True
+			}
+		}
+		ACTIONS
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleStagingToggle
+		isEnabled = True
+		stagingEnabled = True
+		stagingEnabled_UIFlight
+		{
+			controlEnabled = True
+		}
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTweakableDecouple
+		isEnabled = True
+		ejectionForce = 40
+		ejectionForce_UIFlight
+		{
+			controlEnabled = True
+			minValue = -3.402823E+38
+			maxValue = 3.402823E+38
+			stepIncrement = 1
+		}
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTweakableJettison
+		isEnabled = True
+		disableFairing = False
+		disableFairing_UIFlight
+		{
+			controlEnabled = True
+		}
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+	}
+	MODULE
+	{
+		name = FARBasicDragModel
+		isEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+	}
+	RESOURCE
+	{
+		name = AblativeShielding
+		amount = 850
+		maxAmount = 850
+		flowState = True
+		isTweakable = True
+		hideFlow = False
+		flowMode = Both
 	}
 }
