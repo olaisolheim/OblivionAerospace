@@ -8,7 +8,7 @@ Features:
   * Works great with Ferram Aerospace Research by ferram4 in that sphere-cone shaped heat shields offer greater control (by lift) over blunt ones.
   * Unlike the heat shields in DRE, the Conical Heat Shield does not have an "omni-decoupler". Instead, it has a single decoupler on the top attachment point (yellow/black ring), allowing for more custom designs.
   * Depending on size, it has additional attachment points inside the "bowl" of the shield for different sizes, allowing you to build more into the shield itself (say, science stuff which isn't needed once the shield is jetted).
-  * Comes with an auto-shroud meeting flush with the shield. It works like an engine shroud. Just add something to the heat shield's bottom node and the shroud/adapter will appear!
+  * Comes with an auto-shroud meeting flush with the shield. It works like an engine shroud. Just add something to the heat shield's bottom node (like a decoupler) and the shroud/adapter will appear!
 
 Known issues:
 * None.
@@ -35,7 +35,7 @@ Install by merging the `GameData` folder in the zip with the `GameData` folder i
 # Changelog
 
 **v0.1.2**
-* Added an auto-shroud to the Conical Heat Shield. It works like an engine shroud. Just add something to the heat shield's bottom node and the shroud/adapter will appear!
+* Added an auto-shroud to the Conical Heat Shield. It works like an engine shroud. Just add something to the heat shield's bottom node (like a decoupler) and the shroud/adapter will appear!
 
 **v0.1.1**
 * Added the Duna Exploration Rover example craft using the Conical Heat Shield for reentry. (You'll need the Procedural Fairings mod by e-dog.)
