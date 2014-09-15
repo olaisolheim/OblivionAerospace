@@ -35,7 +35,7 @@ Install by merging the `GameData` folder in the zip with the `GameData` folder i
 # Changelog
 
 **v0.1.2**
-* Added an auto-shroud to the Conical Heat Shield, meeting flush with the shield upon fitting something to its bottom node.
+* Added an auto-shroud to the Conical Heat Shield. It works like an engine shroud. Just add something to the heat shield's bottom node and the shroud/adapter will appear!
 
 **v0.1.1**
 * Added the Duna Exploration Rover example craft using the Conical Heat Shield for reentry. (You'll need the Procedural Fairings mod by e-dog.)
