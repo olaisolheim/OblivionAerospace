@@ -34,6 +34,9 @@ Install by merging the `GameData` folder in the zip with the `GameData` folder i
 
 # Changelog
 
+**v0.1.3**
+* Corrected the bottom node size of all three heat shields and tweaked some reentry parameters. Many thanks to Hattivat for testing and pointing this out. :)
+
 **v0.1.2**
 * Added an auto-shroud to the Conical Heat Shield. It works like an engine shroud. Just add something to the heat shield's bottom node (like a decoupler) and the shroud/adapter will appear!
 
