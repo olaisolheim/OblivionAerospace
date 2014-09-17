@@ -8,7 +8,7 @@ Features:
   * Works great with Ferram Aerospace Research by ferram4 in that sphere-cone shaped heat shields offer greater control (by lift) over blunt ones.
   * Unlike the heat shields in DRE, the Conical Heat Shield does not have an "omni-decoupler". Instead, it has a single decoupler on the top attachment point (yellow/black ring), allowing for more custom designs.
   * Depending on size, it has additional attachment points inside the "bowl" of the shield for different sizes, allowing you to build more into the shield itself (say, science stuff which isn't needed once the shield is jetted).
-  * Comes with an auto-shroud meeting flush with the shield. It works like an engine shroud. Just add something to the heat shield's bottom node (like a decoupler) and the shroud/adapter will appear!
+  * Comes with an auto-shroud adapter that meets flush with the shield. It works like an engine shroud. Just add something to the heat shield's bottom node (like a decoupler) and the shroud/adapter will appear!
 
 Known issues:
 * None.
@@ -21,6 +21,7 @@ Thanks to...
 * ialdabaoth and r4m0n, for creating the excellent Deadly Reentry mod, and to NathanKell for extending upon and maintaining it. Heat shields would be boring without it!
 * ferram4, for creating Ferram Aerospace Research, which really makes the KSP experience for me!
 * Squad, for making such a great game!
+* Hattivat, for testing.
 
 License is CC BY-SA (see `LICENSE` for details).
 
