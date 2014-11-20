@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: ShroudMat
-  m_Shader: {fileID: 4800000, guid: 2625127390d7a5144b07b1b2cec9a889, type: 3}
+  m_Shader: {fileID: 4800000, guid: 00922cc40f7547a478b9ea0b4581e1f3, type: 3}
   m_ShaderKeywords: []
   m_CustomRenderQueue: -1
   m_SavedProperties:
