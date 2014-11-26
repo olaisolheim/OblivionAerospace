@@ -10,6 +10,13 @@ ModelImporter:
     100008: ShroudCollider002
     100010: ShroudCollider003
     100012: ShroudCollider004
+    100014: ShroudHub
+    100016: ShroudStrut001
+    100018: ShroudStrut002
+    100020: ShroudStrut003
+    100022: ShroudStrut004
+    100024: ShroudStrut005
+    100026: ShroudStrut006
     400000: //RootNode
     400002: Shroud
     400004: ShroudCollider
@@ -17,6 +24,13 @@ ModelImporter:
     400008: ShroudCollider002
     400010: ShroudCollider003
     400012: ShroudCollider004
+    400014: ShroudHub
+    400016: ShroudStrut001
+    400018: ShroudStrut002
+    400020: ShroudStrut003
+    400022: ShroudStrut004
+    400024: ShroudStrut005
+    400026: ShroudStrut006
     2300000: //RootNode
     2300002: Shroud
     2300004: ShroudCollider
@@ -24,6 +38,13 @@ ModelImporter:
     2300008: ShroudCollider002
     2300010: ShroudCollider003
     2300012: ShroudCollider004
+    2300014: ShroudHub
+    2300016: ShroudStrut001
+    2300018: ShroudStrut002
+    2300020: ShroudStrut003
+    2300022: ShroudStrut004
+    2300024: ShroudStrut005
+    2300026: ShroudStrut006
     3300000: //RootNode
     3300002: Shroud
     3300004: ShroudCollider
@@ -31,12 +52,26 @@ ModelImporter:
     3300008: ShroudCollider002
     3300010: ShroudCollider003
     3300012: ShroudCollider004
+    3300014: ShroudHub
+    3300016: ShroudStrut001
+    3300018: ShroudStrut002
+    3300020: ShroudStrut003
+    3300022: ShroudStrut004
+    3300024: ShroudStrut005
+    3300026: ShroudStrut006
     4300000: Shroud
     4300002: ShroudCollider
     4300004: ShroudCollider001
     4300006: ShroudCollider002
     4300008: ShroudCollider003
     4300010: ShroudCollider004
+    4300012: ShroudStrut001
+    4300014: ShroudHub
+    4300016: ShroudStrut002
+    4300018: ShroudStrut003
+    4300020: ShroudStrut004
+    4300022: ShroudStrut005
+    4300024: ShroudStrut006
     9500000: //RootNode
   materials:
     importMaterials: 1
