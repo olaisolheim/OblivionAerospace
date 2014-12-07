@@ -7,21 +7,181 @@ ModelImporter:
     100002: Shield
     100004: ShieldCollider
     100006: Shroud
+    100008: ShieldRing
+    100010: ShieldRings
+    100012: ShieldStrutBeam
+    100014: ShieldStrutCenter001
+    100016: ShieldStrutCenter002
+    100018: ShieldStrutLong001
+    100020: ShieldStrutLong002
+    100022: ShieldStrutLong003
+    100024: ShieldStrutLong004
+    100026: ShieldStrutLong005
+    100028: ShieldStrutLong006
+    100030: ShieldStrutLong007
+    100032: ShieldStrutLong008
+    100034: ShieldStrutLong009
+    100036: ShieldStrutLong010
+    100038: ShieldStrutLong011
+    100040: ShieldStrutLong012
+    100042: ShieldStrutShort001
+    100044: ShieldStrutShort002
+    100046: ShieldStrutShort003
+    100048: ShieldStrutShort004
+    100050: ShieldStrutShort005
+    100052: ShieldStrutShort006
+    100054: ShieldStrutShort007
+    100056: ShieldStrutShort008
+    100058: ShroudHub
+    100060: ShroudStrut001
+    100062: ShroudStrut002
+    100064: ShroudStrut003
+    100066: ShroudStrut004
+    100068: ShroudStrut005
+    100070: ShroudStrut006
     400000: //RootNode
     400002: Shield
     400004: ShieldCollider
     400006: Shroud
+    400008: ShieldRing
+    400010: ShieldRings
+    400012: ShieldStrutBeam
+    400014: ShieldStrutCenter001
+    400016: ShieldStrutCenter002
+    400018: ShieldStrutLong001
+    400020: ShieldStrutLong002
+    400022: ShieldStrutLong003
+    400024: ShieldStrutLong004
+    400026: ShieldStrutLong005
+    400028: ShieldStrutLong006
+    400030: ShieldStrutLong007
+    400032: ShieldStrutLong008
+    400034: ShieldStrutLong009
+    400036: ShieldStrutLong010
+    400038: ShieldStrutLong011
+    400040: ShieldStrutLong012
+    400042: ShieldStrutShort001
+    400044: ShieldStrutShort002
+    400046: ShieldStrutShort003
+    400048: ShieldStrutShort004
+    400050: ShieldStrutShort005
+    400052: ShieldStrutShort006
+    400054: ShieldStrutShort007
+    400056: ShieldStrutShort008
+    400058: ShroudHub
+    400060: ShroudStrut001
+    400062: ShroudStrut002
+    400064: ShroudStrut003
+    400066: ShroudStrut004
+    400068: ShroudStrut005
+    400070: ShroudStrut006
     2300000: //RootNode
     2300002: Shield
     2300004: ShieldCollider
     2300006: Shroud
+    2300008: ShieldRing
+    2300010: ShieldRings
+    2300012: ShieldStrutBeam
+    2300014: ShieldStrutCenter001
+    2300016: ShieldStrutCenter002
+    2300018: ShieldStrutLong001
+    2300020: ShieldStrutLong002
+    2300022: ShieldStrutLong003
+    2300024: ShieldStrutLong004
+    2300026: ShieldStrutLong005
+    2300028: ShieldStrutLong006
+    2300030: ShieldStrutLong007
+    2300032: ShieldStrutLong008
+    2300034: ShieldStrutLong009
+    2300036: ShieldStrutLong010
+    2300038: ShieldStrutLong011
+    2300040: ShieldStrutLong012
+    2300042: ShieldStrutShort001
+    2300044: ShieldStrutShort002
+    2300046: ShieldStrutShort003
+    2300048: ShieldStrutShort004
+    2300050: ShieldStrutShort005
+    2300052: ShieldStrutShort006
+    2300054: ShieldStrutShort007
+    2300056: ShieldStrutShort008
+    2300058: ShroudHub
+    2300060: ShroudStrut001
+    2300062: ShroudStrut002
+    2300064: ShroudStrut003
+    2300066: ShroudStrut004
+    2300068: ShroudStrut005
+    2300070: ShroudStrut006
     3300000: //RootNode
     3300002: Shield
     3300004: ShieldCollider
     3300006: Shroud
+    3300008: ShieldRing
+    3300010: ShieldRings
+    3300012: ShieldStrutBeam
+    3300014: ShieldStrutCenter001
+    3300016: ShieldStrutCenter002
+    3300018: ShieldStrutLong001
+    3300020: ShieldStrutLong002
+    3300022: ShieldStrutLong003
+    3300024: ShieldStrutLong004
+    3300026: ShieldStrutLong005
+    3300028: ShieldStrutLong006
+    3300030: ShieldStrutLong007
+    3300032: ShieldStrutLong008
+    3300034: ShieldStrutLong009
+    3300036: ShieldStrutLong010
+    3300038: ShieldStrutLong011
+    3300040: ShieldStrutLong012
+    3300042: ShieldStrutShort001
+    3300044: ShieldStrutShort002
+    3300046: ShieldStrutShort003
+    3300048: ShieldStrutShort004
+    3300050: ShieldStrutShort005
+    3300052: ShieldStrutShort006
+    3300054: ShieldStrutShort007
+    3300056: ShieldStrutShort008
+    3300058: ShroudHub
+    3300060: ShroudStrut001
+    3300062: ShroudStrut002
+    3300064: ShroudStrut003
+    3300066: ShroudStrut004
+    3300068: ShroudStrut005
+    3300070: ShroudStrut006
     4300000: Shield
     4300002: ShieldCollider
     4300004: Shroud
+    4300006: ShieldRing
+    4300008: ShieldRings
+    4300010: ShieldStrutLong001
+    4300012: ShieldStrutShort001
+    4300014: ShieldStrutLong002
+    4300016: ShieldStrutLong003
+    4300018: ShieldStrutLong004
+    4300020: ShieldStrutLong005
+    4300022: ShieldStrutLong006
+    4300024: ShieldStrutLong007
+    4300026: ShieldStrutLong008
+    4300028: ShieldStrutLong009
+    4300030: ShieldStrutLong010
+    4300032: ShieldStrutLong011
+    4300034: ShieldStrutLong012
+    4300036: ShieldStrutShort002
+    4300038: ShieldStrutShort003
+    4300040: ShieldStrutShort004
+    4300042: ShieldStrutBeam
+    4300044: ShieldStrutCenter001
+    4300046: ShieldStrutCenter002
+    4300048: ShieldStrutShort005
+    4300050: ShieldStrutShort006
+    4300052: ShieldStrutShort007
+    4300054: ShieldStrutShort008
+    4300056: ShroudStrut001
+    4300058: ShroudHub
+    4300060: ShroudStrut002
+    4300062: ShroudStrut003
+    4300064: ShroudStrut004
+    4300066: ShroudStrut005
+    4300068: ShroudStrut006
     9500000: //RootNode
   materials:
     importMaterials: 1
