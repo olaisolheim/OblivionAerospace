@@ -39,6 +39,30 @@ ModelImporter:
     100066: ShroudStrut004
     100068: ShroudStrut005
     100070: ShroudStrut006
+    100072: ShieldMeshBeam001
+    100074: ShieldMeshBeam002
+    100076: ShieldMeshCenter
+    100078: ShieldMeshLong001
+    100080: ShieldMeshLong002
+    100082: ShieldMeshLong003
+    100084: ShieldMeshLong004
+    100086: ShieldMeshLong005
+    100088: ShieldMeshLong006
+    100090: ShieldMeshLong007
+    100092: ShieldMeshLong008
+    100094: ShieldMeshLong009
+    100096: ShieldMeshLong010
+    100098: ShieldMeshLong011
+    100100: ShieldMeshLong012
+    100102: ShieldMeshRings
+    100104: ShieldMeshShort001
+    100106: ShieldMeshShort002
+    100108: ShieldMeshShort003
+    100110: ShieldMeshShort004
+    100112: ShieldMeshShort005
+    100114: ShieldMeshShort006
+    100116: ShieldMeshShort007
+    100118: ShieldMeshShort008
     400000: //RootNode
     400002: Shield
     400004: ShieldCollider
@@ -75,6 +99,30 @@ ModelImporter:
     400066: ShroudStrut004
     400068: ShroudStrut005
     400070: ShroudStrut006
+    400072: ShieldMeshBeam001
+    400074: ShieldMeshBeam002
+    400076: ShieldMeshCenter
+    400078: ShieldMeshLong001
+    400080: ShieldMeshLong002
+    400082: ShieldMeshLong003
+    400084: ShieldMeshLong004
+    400086: ShieldMeshLong005
+    400088: ShieldMeshLong006
+    400090: ShieldMeshLong007
+    400092: ShieldMeshLong008
+    400094: ShieldMeshLong009
+    400096: ShieldMeshLong010
+    400098: ShieldMeshLong011
+    400100: ShieldMeshLong012
+    400102: ShieldMeshRings
+    400104: ShieldMeshShort001
+    400106: ShieldMeshShort002
+    400108: ShieldMeshShort003
+    400110: ShieldMeshShort004
+    400112: ShieldMeshShort005
+    400114: ShieldMeshShort006
+    400116: ShieldMeshShort007
+    400118: ShieldMeshShort008
     2300000: //RootNode
     2300002: Shield
     2300004: ShieldCollider
@@ -111,6 +159,30 @@ ModelImporter:
     2300066: ShroudStrut004
     2300068: ShroudStrut005
     2300070: ShroudStrut006
+    2300072: ShieldMeshBeam001
+    2300074: ShieldMeshBeam002
+    2300076: ShieldMeshCenter
+    2300078: ShieldMeshLong001
+    2300080: ShieldMeshLong002
+    2300082: ShieldMeshLong003
+    2300084: ShieldMeshLong004
+    2300086: ShieldMeshLong005
+    2300088: ShieldMeshLong006
+    2300090: ShieldMeshLong007
+    2300092: ShieldMeshLong008
+    2300094: ShieldMeshLong009
+    2300096: ShieldMeshLong010
+    2300098: ShieldMeshLong011
+    2300100: ShieldMeshLong012
+    2300102: ShieldMeshRings
+    2300104: ShieldMeshShort001
+    2300106: ShieldMeshShort002
+    2300108: ShieldMeshShort003
+    2300110: ShieldMeshShort004
+    2300112: ShieldMeshShort005
+    2300114: ShieldMeshShort006
+    2300116: ShieldMeshShort007
+    2300118: ShieldMeshShort008
     3300000: //RootNode
     3300002: Shield
     3300004: ShieldCollider
@@ -147,6 +219,30 @@ ModelImporter:
     3300066: ShroudStrut004
     3300068: ShroudStrut005
     3300070: ShroudStrut006
+    3300072: ShieldMeshBeam001
+    3300074: ShieldMeshBeam002
+    3300076: ShieldMeshCenter
+    3300078: ShieldMeshLong001
+    3300080: ShieldMeshLong002
+    3300082: ShieldMeshLong003
+    3300084: ShieldMeshLong004
+    3300086: ShieldMeshLong005
+    3300088: ShieldMeshLong006
+    3300090: ShieldMeshLong007
+    3300092: ShieldMeshLong008
+    3300094: ShieldMeshLong009
+    3300096: ShieldMeshLong010
+    3300098: ShieldMeshLong011
+    3300100: ShieldMeshLong012
+    3300102: ShieldMeshRings
+    3300104: ShieldMeshShort001
+    3300106: ShieldMeshShort002
+    3300108: ShieldMeshShort003
+    3300110: ShieldMeshShort004
+    3300112: ShieldMeshShort005
+    3300114: ShieldMeshShort006
+    3300116: ShieldMeshShort007
+    3300118: ShieldMeshShort008
     4300000: Shield
     4300002: ShieldCollider
     4300004: Shroud
@@ -182,6 +278,30 @@ ModelImporter:
     4300064: ShroudStrut004
     4300066: ShroudStrut005
     4300068: ShroudStrut006
+    4300070: ShieldMeshRings
+    4300072: ShieldMeshLong001
+    4300074: ShieldMeshShort001
+    4300076: ShieldMeshCenter
+    4300078: ShieldMeshBeam001
+    4300080: ShieldMeshBeam002
+    4300082: ShieldMeshLong002
+    4300084: ShieldMeshLong003
+    4300086: ShieldMeshLong004
+    4300088: ShieldMeshLong005
+    4300090: ShieldMeshLong006
+    4300092: ShieldMeshLong007
+    4300094: ShieldMeshLong008
+    4300096: ShieldMeshLong009
+    4300098: ShieldMeshLong010
+    4300100: ShieldMeshLong011
+    4300102: ShieldMeshLong012
+    4300104: ShieldMeshShort002
+    4300106: ShieldMeshShort003
+    4300108: ShieldMeshShort004
+    4300110: ShieldMeshShort005
+    4300112: ShieldMeshShort006
+    4300114: ShieldMeshShort007
+    4300116: ShieldMeshShort008
     9500000: //RootNode
   materials:
     importMaterials: 1
