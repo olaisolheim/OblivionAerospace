@@ -1,6 +1,6 @@
 # Oblivion Aerospace Pack
 
-A small parts package of heat shields for Kerbal Space Program and the fabulous Deadly Reentry Continued mod created by NathanKell (who is awesome) based on the works by ialdabaoth and r4m0n.
+A small parts package of heat shields for Kerbal Space Program and the fabulous Deadly Reentry Continued mod maintained by Starwaster and NathanKell based on the works by ialdabaoth (who is awesome) and r4m0n.
 
 Features:
 * Currently featuring the *Conical Heat Shield* inspired by the sphere-cone heat shield on the Mars Science Laboratory.
@@ -16,9 +16,10 @@ Known issues:
 Future:
 * More heat shields based on real-life ones, like a Galileo-style reflective heat shield.
 * I've been playing with the idea of a giant heat shield with a "hatch" at the center, allowing for engines to fire through it once the hatch is open, allowing for a more realistic spaceship design with g-forces pointing the same direction during both burns and aerobreaking (like the one in BBC's documentary Space Odyssey: Voyage to the Planets).
+* I have plans on making all heat shields tweakable in size, like the brilliant Procedural Fairings mod by e-dog.
 
 Thanks to...
-* ialdabaoth and r4m0n, for creating the excellent Deadly Reentry mod, and to NathanKell for extending upon and maintaining it. Heat shields would be boring without it!
+* ialdabaoth and r4m0n, for creating the excellent Deadly Reentry mod, and to NathanKell and Starwaster for extending upon and maintaining it. Heat shields would be boring without it!
 * ferram4, for creating Ferram Aerospace Research, which really makes the KSP experience for me!
 * Squad, for making such a great game!
 * Hattivat, for testing.
