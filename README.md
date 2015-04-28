@@ -40,8 +40,8 @@ Install by merging the `GameData` folder in the zip with the `GameData` folder i
 
 # Changelog
 
-**v0.1.3.1**
-* Maintenance release to have the heat shields support stock heating (in addition to DRE).
+**v0.1.4**
+* Maintenance release to have the heat shields support stock heating. Does not support DRE until Starwaster releases a version compatible with KSP 1.0. Not backwards compatible with previous versions of this mod (if you really, really need this, send me a message on the forums and I'll help you fix your save so it magically works with the new version :)).
 
 **v0.1.3**
 * Corrected the bottom node size of all three heat shields and tweaked some reentry parameters. Many thanks to Hattivat for testing and pointing this out. :)

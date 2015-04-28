@@ -2137,10 +2137,10 @@ PART
 	modCost = 7.004426
 	link = parachuteSingle_4287429870
 	link = KzProcFairingSide2_4287429464
-	link = ObConicalHeatShield250_4287422508
+	link = ObConicalHeatShield2_4287422508
 	attN = bottom,parachuteSingle_4287429870
 	attN = top,stackDecouplerMini_4287429944
-	attN = top1,ObConicalHeatShield250_4287422508
+	attN = top1,ObConicalHeatShield2_4287422508
 	attN = connect01,KzProcFairingSide2_4287429464
 	EVENTS
 	{
@@ -3111,7 +3111,7 @@ PART
 }
 PART
 {
-	part = ObConicalHeatShield250_4287422508
+	part = ObConicalHeatShield2_4287422508
 	partName = Part
 	pos = -2.123415E-06,9.990769,8.419156E-07
 	rot = 0,0,0,1
@@ -3123,7 +3123,7 @@ PART
 	sqor = 3
 	attm = 0
 	modCost = 0
-	attN = top03,KzInterstageAdapter2_4287429912
+	attN = top,KzInterstageAdapter2_4287429912
 	EVENTS
 	{
 	}
