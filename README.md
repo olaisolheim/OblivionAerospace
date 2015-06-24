@@ -1,6 +1,6 @@
 # Oblivion Aerospace Pack
 
-A small parts package of heat shields for Kerbal Space Program (KSP) that also works with the Deadly Reentry (DRE) plugin by Starwaster.
+A small parts package of heat shields for Kerbal Space Program (KSP) that also works with the Deadly Reentry (DR) plugin by Starwaster.
 
 Features:
 * Currently features the *Conical Heat Shield* inspired by the sphere-cone heat shield on the Mars Science Laboratory.
@@ -8,7 +8,7 @@ Features:
   * Works great with Ferram Aerospace Research (FAR) by ferram4, in that sphere-cone shaped heat shields offer greater control (by lift) over blunt ones.
   * Comes with an auto-shroud adapter that meets flush with the shield. It works just like the stock heat shields. Just add something to the heat shield's bottom node (like a decoupler) and the shroud/adapter will appear!
   * Supports the Deadly Reentry plugin by Starwaster, based on the works by NathanKell, ialdabaoth (who is awesome), and r4m0n.
-  * Unlike the heat shields in DRE, the Conical Heat Shield does not have an omni-decoupler. Instead, it has a single decoupler on the top attachment point (yellow/black ring), allowing for more custom designs.
+  * Unlike the heat shields in DR, the Conical Heat Shield does not have an omni-decoupler. Instead, it has a single decoupler on the top attachment point (yellow/black ring), allowing for more custom designs.
 
 Known issues:
 * Stock KSP has an issue with rescaleFactor on root parts. Since this mod uses rescaleFactor, you should avoid using these shields as the root part on your vessel.
@@ -45,7 +45,7 @@ Install by merging the `GameData` folder in the zip with the `GameData` folder i
 * Tweaked heat shield configurations to reflect changes in stock heat model.
 
 **v0.1.4**
-* Maintenance release to have the heat shields support stock heating. Does not support DRE until Starwaster releases a version compatible with KSP 1.0 in a few days.
+* Maintenance release to have the heat shields support stock heating. Does not support DR until Starwaster releases a version compatible with KSP 1.0 in a few days.
 * Not backwards compatible with previous versions of this mod (if you really, really need this, send me a message on the forums and I'll help you fix your save so it magically works with the new version :)).
 * Command Pod Heat Shield still in the works, but textures are WIP, so I moved it to v0.2.0 (alpha for it shortly).
 * Oh, and the mod is using ModuleManager now. :)
