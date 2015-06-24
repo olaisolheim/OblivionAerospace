@@ -11,7 +11,7 @@ Features:
   * Unlike the heat shields in DRE, the Conical Heat Shield does not have an omni-decoupler. Instead, it has a single decoupler on the top attachment point (yellow/black ring), allowing for more custom designs.
 
 Known issues:
-* None.
+* Stock KSP has an issue with rescaleFactor on root parts. Since this mod uses rescaleFactor, you should avoid using these shields as the root part on your vessel.
 
 Future:
 * More heat shields based on real-life ones, like a Galileo-style reflective heat shield.
